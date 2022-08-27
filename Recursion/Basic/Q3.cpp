@@ -1,4 +1,4 @@
-// Q3. Print n to 1 
+// Q3. Sum of first N Numbers  
 
 
 #include<iostream>
